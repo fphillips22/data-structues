@@ -2,10 +2,6 @@
 import java.util.HashMap;
 import java.util.HashSet;
 
-/**
- *
- * @author yaw
- */
 public class StudentDatabase {
 
     private HashMap<String, HashSet<Student>> database;
