@@ -1,9 +1,4 @@
 package Lab9_assigned;
-
-/**
- *
- * @author yaw
- */
 public class MaxST {
 
     /**
