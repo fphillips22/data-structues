@@ -3,10 +3,7 @@ package Lab9_assigned;
 import java.util.HashSet;
 import java.util.LinkedList;
 
-/**
- *
- * @author yaw
- */
+
 public class EdgeWeightedGraph {
 
     private LinkedList[] adjacencyList;
