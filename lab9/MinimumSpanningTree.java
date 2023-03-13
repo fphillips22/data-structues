@@ -3,10 +3,6 @@ package Lab9_assigned;
 import java.util.HashSet;
 import java.util.PriorityQueue;
 
-/**
- *
- * @author yaw
- */
 public class MinimumSpanningTree {
 
     private final HashSet<Edge> mst;
