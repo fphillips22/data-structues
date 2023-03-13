@@ -1,9 +1,5 @@
 package Lab9_assigned;
 
-/**
- *
- * @author yaw
- */
 public class Edge implements Comparable<Edge> {
 
     private final int vertex1;
