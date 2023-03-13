@@ -1,8 +1,5 @@
 
-/**
- *
- * @author yaw
- */
+
 public class Main {
 
     /**
