@@ -4,10 +4,6 @@
  * and open the template in the editor.
  */
 
-/**
- *
- * @author yaw
- */
 public class Student {
     private String name;
     private int idNumber;
