@@ -1,8 +1,4 @@
 
-/**
- *
- * @author yaw
- */
 public class Driver {
 
     /**
