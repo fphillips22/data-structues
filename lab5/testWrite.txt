@@ -1,0 +1,1 @@
+the spell check code needs to output the identical text except for <mispeled> words even things with unique questionably-used <punctuattions> also the amount of <whitespace> needs to be <preserved> there are probably things that are not included here that you may want to check just because your code <werks> for this file does not mean it will <wark> for any file 
