@@ -2,11 +2,6 @@
 import java.util.HashSet;
 import java.util.LinkedList;
 
-
-/**
- *
- * @author yaw
- */
 public class Graph {
     private final LinkedList<Integer>[] adjacencyList;
     private int numEdges;
