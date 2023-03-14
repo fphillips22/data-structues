@@ -1,10 +1,7 @@
 
 import java.util.ArrayList;
 
-/**
- *
- * @author yaw
- */
+
 public class FileTree {
 
     private Node root;
